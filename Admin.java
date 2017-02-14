@@ -4,4 +4,5 @@ public class Admin{
 	
 	private Integer no;
 	private String aid;
+	private List<Action> actions;
 }
