@@ -7,5 +7,8 @@ public class Hello{
 		Date date=new Date();
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
+		
+		System.out.println("Hello Git");
+		System.out.println("Hello Git");
 	}
 }
